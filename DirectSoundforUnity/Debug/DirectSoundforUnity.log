@@ -1,0 +1,9 @@
+﻿  CWindow.cpp
+D:\DirectSoundforUnity\DirectSoundforUnity\CWindow.cpp(115,20): warning C4302: '型キャスト': 'HMENU' から 'WORD' へ切り詰めます。
+  DirectSoundforUnity.cpp
+D:\DirectSoundforUnity\DirectSoundforUnity\DirectSoundforUnity.cpp(269,39): warning C4129: 'S': エスケープ シーケンスとして正しく認識されませんでした。
+  コードを生成中...
+     ライブラリ D:\DirectSoundforUnity\Debug\DirectSoundforUnity.lib とオブジェクト D:\DirectSoundforUnity\Debug\DirectSoundforUnity.exp を作成中
+DirectSoundforUnity.obj : error LNK2019: 未解決の外部シンボル _DirectSoundCreate8@12 が関数 "int __cdecl Init(void)" (?Init@@YAHXZ) で参照されました。
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x64\dsound.lib : warning LNK4272: ライブラリのコンピューターの種類 'x64' がターゲットのコンピューターの種類' x86' と競合しています
+D:\DirectSoundforUnity\Debug\DirectSoundforUnity.dll : fatal error LNK1120: 1 件の未解決の外部参照
